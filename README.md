@@ -1,4 +1,4 @@
-# The-Clash-of-Clans (2020101088)
+# The-Clash-of-Clans
 
 - I have used the OOPS concept: Inheritance, Polymorphism, Encapsulation, Abstraction.
 
